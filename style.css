@@ -9,13 +9,15 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
+body
+{
   font-family: "Lexend Deca", sans-serif;
   font-size: 1.8rem;
   background-color: #faffff;
 }
 
-.header {
+.header
+{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,19 +29,22 @@ body {
   z-index: 9999;
 }
 
-.header-logo {
+.header-logo
+{
   height: 7.2rem;
   width: auto;
 }
 
-.section {
+.section 
+{
   padding: 9rem 10rem 8rem 10rem;
 }
 .section:not(:first-child) {
   border-top: 1px solid #64e0ff;
 }
 
-.primary-heading {
+.primary-heading
+{
   font-size: 6rem;
   font-weight: 700;
   color: #0088aa;
@@ -54,7 +59,8 @@ body {
   letter-spacing: -2px;
   font-size: 4.8rem;
 }
-.ternary-heading {
+.ternary-heading
+{
   font-size: 4rem;
   color: #0088aa;
   margin-bottom: 1rem;
